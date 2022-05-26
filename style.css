@@ -467,7 +467,7 @@ footer{
 
   * {
     
-    font-size: 12px 
+    font-size: 10px 
      
   }
 
@@ -490,10 +490,14 @@ footer{
   }
   
   #sobremi p{
-    
+    word-break: keep-all;
     text-shadow: none;
   }
   
+  .navbar ul li a {
+    font-size: 0.6rem;
+    
+  }
 }
 
 @media (max-width: 1276px){
@@ -510,7 +514,7 @@ footer{
   }
 
   #porfolio h1{
-    font-size: 3rem;
+    font-size: 5rem;
   }
 }
 
