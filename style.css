@@ -498,6 +498,10 @@ footer{
     font-size: 0.6rem;
     
   }
+
+  #porfolio h1{
+    font-size: 5rem;
+  }
 }
 
 @media (max-width: 1276px){
@@ -513,9 +517,7 @@ footer{
     text-shadow: none;
   }
 
-  #porfolio h1{
-    font-size: 5rem;
-  }
+  
 }
 
 
