@@ -1,7 +1,6 @@
 const typed = new Typed('.typed', {
 	strings: [
-		'<i>GABRIEL NIETO DE JESÚS.</i>'
-			
+		'<i>GABRIEL NIETO DE JESÚS.</i>'			
 	],
 
 	//stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
