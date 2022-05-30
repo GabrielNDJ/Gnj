@@ -460,10 +460,6 @@ footer{
     word-break: keep-all;
     text-shadow: none;
   }
-  
-  .navbar ul li a {
-    font-size: 0.6rem;
-  }
 
   #porfolio h1{
     font-size: 5rem;
@@ -486,4 +482,9 @@ footer{
 
 
 
+@media (max-width: 480px){
+  .navbar ul li a {
+    font-size: 0.6em;
+  }
+}
 
