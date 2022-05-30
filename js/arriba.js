@@ -7,7 +7,7 @@ $(document).ready(function(){
 });
 
 $(window).scroll(function(){
-    if($(this).scrollTop() > 600){
+    if($(this).scrollTop() > 0){
 
         $('.ir-arriba').slideDown (300);
         
