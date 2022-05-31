@@ -433,6 +433,12 @@ footer{
   animation-iteration-count: infinite;
 }
 
+#desarrollo{
+  text-align: center;
+  font-size: 1.6rem;
+  color: #0f0;
+  opacity: 0.6;
+}
 
 /* ----------------------MEDIAQUERIES-------------------- */
 
