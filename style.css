@@ -46,8 +46,8 @@ header{
 
 /* ----------------BOTON SUBIR------------ */
 
-.ir-arriba {
-  display: none;
+#ir-arriba {
+  display: absolute;
   padding: 15px;
   background: #0f0;
   font-size: 15px;
@@ -440,6 +440,10 @@ footer{
 
   * {
     font-size: 10px 
+  }
+
+  #ir-arriba {
+    display: none;
   }
 
   #menu{
